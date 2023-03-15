@@ -1,10 +1,10 @@
 ##
 <p align="center">
-<a href="https://profile.intra.42.fr/users/afernan2"><img src="https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=21&coalitionId=66" alt="afernan2's 42 stats"</a><br/>
+<a href="https://profile.intra.42.fr/users/afernan2"><img src="https://www.42madrid.com/wp-content/uploads/2020/12/42-Madrid.jpg" alt="afernan2's 42 stats"</a><br/>
 </p>
 <!--
 <p align="center">
-<a href="https://profile.intra.42.fr/users/afernan2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/2048px-42_Logo.svg.png" alt="afernan2's 42 Libft Score" /></a>
+<a href="https://profile.intra.42.fr/users/afernan2"><img src="https://www.42madrid.com/wp-content/uploads/2020/12/42-Madrid.jpg" alt="afernan2's 42 Libft Score" /></a>
 </p>
 -->
 <br/>
