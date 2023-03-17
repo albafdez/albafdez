@@ -1,6 +1,6 @@
 ##
 <p align="center">
-<a href="https://profile.intra.42.fr/users/afernan2"><img src="img/42.png" width="100px" height="100px" alt="afernan2's 42 stats"</a><br/>
+<a href="https://profile.intra.42.fr/users/afernan2"><img src="https://badge42.vercel.app/api/v2/cl8ep22ei00780glblvm7hy4f/stats?cursusId=21&coalitionId=66" alt="afernan2's 42 stats"</a><br/>
 </p>
 <br/>
 <p align="center">
