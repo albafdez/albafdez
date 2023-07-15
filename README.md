@@ -4,9 +4,7 @@
 <pre>
 A nivel técnico tengo mucho que aprender pero si me preguntáis por qué contratarme os podría decir que me definen 
 como una gran jugadora de equipo:
-</pre>
-<br/>
-<pre>
+
 ⊛ Si tienes una mala mañana, estoy yo para sacrte una sonrisa.
 
 ⊛ Si estas atascado en una fase del proyecto, estoy yo contigo porque dos cabezas piensan mejor que una.
