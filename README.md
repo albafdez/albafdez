@@ -1,6 +1,6 @@
-<pre>
 <b align="center>¿Que soy? ¿Quién soy?</b>
-  
+<br/>
+<pre>
 A nivel técnico tengo mucho que aprender pero si me preguntáis por qué contratarme os podría decir que me definen 
 como una gran jugadora de equipo:
 
