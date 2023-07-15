@@ -1,4 +1,4 @@
-<p align="center><b>¿Que soy? ¿Quién soy?</b></p>
+<p><b>¿Que soy? ¿Quién soy?</b></p>
 <br/>
 <pre>
 A nivel técnico tengo mucho que aprender pero si me preguntáis por qué contratarme os podría decir que me definen 
