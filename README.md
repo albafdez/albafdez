@@ -10,7 +10,8 @@ como una gran jugadora de equipo:
 
 ⊛ ¿Soy habladora? si, pocas veces te aburres conmigo.
 
-Pero sobre todo, me apasiona poder desarrollarme en el sector del diseño digital y ser parte de un gran equipo en el que pueda aportar valor y me haga crecer.
+Pero sobre todo, me apasiona poder desarrollarme en el sector del diseño digital y ser parte de un gran equipo en 
+el que pueda aportar valor y me haga crecer.
 </pre>
 <br/>
 <p align="center">
