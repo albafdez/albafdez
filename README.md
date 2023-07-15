@@ -1,11 +1,14 @@
 <b>¿Que soy? ¿Quién soy?</b>
 <p>A nivel técnico tengo mucho que aprender pero si me preguntáis por qué contratarme os podría decir que me definen 
 como una gran jugadora de equipo:
--Si tienes una mala mañana, estoy yo para sacrte una sonrisa, 
--si estas atascado en una fase del proyecto, estoy yo contigo porque dos cabezas piensan mejor que una
+<br/>
+Si tienes una mala mañana, estoy yo para sacrte una sonrisa.
+<br/>
+Si estas atascado en una fase del proyecto, estoy yo contigo porque dos cabezas piensan mejor que una.
+<br/>
 ¿Soy habladora? si, pocas veces te aburres conmigo.
-Pero sobre todo, me apasiona poder desarrollarme en el sector del diseño digital y ser parte de un gran equipo en el que 
-pueda aportar valor y me haga crecer.
+<br/>
+Pero sobre todo, me apasiona poder desarrollarme en el sector del diseño digital y ser parte de un gran equipo en el que pueda aportar valor y me haga crecer.
 </p>
 <br/>
 <p align="center">
