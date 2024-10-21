@@ -3,7 +3,7 @@
 <pre>
 👋 Hello! I’m Alba, a Big Data explorer with a passion for transforming complex data into actionable insights!
 
-🎓 <b>Master’s in Big Data & Analytics</b>
+🎓 Master’s in Big Data & Analytics
 I’m diving deep into the world of machine learning, data analysis, and business intelligence, with hands-on experience using tools like Hadoop, Spark, and Python.
 
 💻 What you’ll find here
