@@ -1,4 +1,4 @@
-<pre><b>                                                  ¿Que soy? ¿Quién soy?</b></pre>
+<pre><b>                                                             ¿Who I am?</b></pre>
 <br/>
 <pre>
 👋 Hello! I’m Alba, a Big Data explorer with a passion for transforming complex data into actionable insights!
