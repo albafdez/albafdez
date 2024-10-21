@@ -1,5 +1,4 @@
 <pre><b>                                                  ¿Que soy? ¿Quién soy?</b></pre>
-<img src="banner_github.png">
 <br/>
 <pre>
 👋 Hello! I’m Alba, a Big Data explorer with a passion for transforming complex data into actionable insights!
